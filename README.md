@@ -6,7 +6,7 @@ A Full Stack web application built with MERN Stack.
 
 With this application you can keep track of your finances by adding expenses and income. You can visualize the data using pie charts in the front end.
 
-Deployed At Heroku - https://expense-tracker-n.herokuapp.com
+
 
 This application uses ExpressJS framework for the backend apis and ReactJS for front-end views. The Data is stored with NoSQL database using MongoDB/mongoose.
 
